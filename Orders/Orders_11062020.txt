@@ -1,0 +1,2 @@
+OrderNumber::CustomerName::State::TaxRate::ProductType::Area::CostPerSquareFoot::LaborCostPerSquareFoot::MaterialCost::LaborCost::Tax::Total
+5::Tim::KY::6.0::Marble::101.0::5.25::10.0::530.25::1010.0::92.41::1632.66::

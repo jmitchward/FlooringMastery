@@ -1,0 +1,2 @@
+OrderNumber::CustomerName::State::TaxRate::ProductType::Area::CostPerSquareFoot::LaborCostPerSquareFoot::MaterialCost::LaborCost::Tax::Total
+6::Mitchell Ward::CA::25.0::Tile::101.0::3.5::4.15::353.5::419.15::193.16::965.81::

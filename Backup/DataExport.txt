@@ -1,0 +1,6 @@
+OrderNumber::CustomerName::State::TaxRate::ProductType::Area::CostPerSquareFoot::LaborCostPerSquareFoot::MaterialCost::LaborCost::Tax::Total::Date
+1::Mitchell Ward::CA::25.0::Tile::249.0::3.5::4.15::871.5::1033.35::476.21::2381.06::2013-06-01
+2::Doctor Woo::WA::9.25::Wood::243.0::5.15::4.75::1251.45::1154.25::216.51::2622.21::2013-06-02
+3::Albert Einstein::KY::6.0::Carpet::217.0::2.25::2.1::488.25::455.7::56.64::1000.59::2013-06-02
+5::Tim::KY::6.0::Marble::101.0::5.25::10.0::530.25::1010.0::92.41::1632.66::2020-11-06
+6::Mitchell Ward::CA::25.0::Tile::101.0::3.5::4.15::353.5::419.15::193.16::965.81::2020-11-04
